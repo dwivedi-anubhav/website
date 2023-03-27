@@ -13,6 +13,6 @@ My current research interests broadly lie in the area of computational fluid dyn
 - **[Feb. 2023]** Our conference paper on transition over hypersonic blunt body flows is accepted to AIAA Aviation forum, 2023 in San Diego
 - **[Jan. 2023]** Our conference paper on stochastically-forced stagnation point flows is accepted to IEEE ACC, 2023 in San Diego
 - **[Nov. 2022]** Anubhav Dwivedi gives a talk on centrifugal oblique waves in hypersonic separated flows at the 75th Annual Meeting of the Division of Fluid Dynamics of American Physical Society 
-- **[Oct. 2022]** Our Journal of Fluid Mechanics article on oblique transition in hypersonic double-wedge flow is published
-
-
+- **[Oct. 2022]** Our article on oblique transition in hypersonic double-wedge flow is published in the Journal of Fluid Mechanics 
+- **[Sep. 2022]** Our conference paper on weakly nonlinear analysis of transitional hypersonic flows is published in the 2022 proceedings of ACC 
+- **[Jan. 2022]** Our conference paper on data-driven modeling of cone frustum boundary layer is published in the 2022 proceedings of the AIAA SciTech meeting
