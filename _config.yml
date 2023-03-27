@@ -22,7 +22,7 @@ cv_link: assets/files/cv_website.pdf
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/anubhav_profilepic.jpeg
+avatar: ./assets/img/profile_new.png
 favicon: ./assets/img/favicon-dark.png
 favicon_dark: ./assets/img/favicon.png
 
