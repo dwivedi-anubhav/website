@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a post-doctoral fellow at the Department of Astronautics and Aeronautics at the Stanford Univeristy. I received my Ph.D. in Aerospace Engineering and Mechanics from the University of Minnesota, Twin Cities.
+I am a post-doctoral scholar in the Department of Astronautics and Aeronautics at the Stanford Univeristy. I received my Ph.D. in Aerospace Engineering and Mechanics from the University of Minnesota, Twin Cities.
 
 My current research interests broadly lie in the area of computational fluid dynamics of compressible high speed flows, plasma dynamics, uncertainty quantification and data driven modeling. 
 
